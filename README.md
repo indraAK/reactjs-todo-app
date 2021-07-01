@@ -25,4 +25,4 @@ Aplikasi web sederhana untuk mencatat daftar kegiatan yang dibuat menggunakan Re
 
 ## Demo
 
-   <a href="https://keen-boyd-c18a14.netlify.app/" target="_blank">Lihat Demo</a>
+   [Lihat Demo](https://keen-boyd-c18a14.netlify.app/)
