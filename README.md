@@ -24,3 +24,5 @@ Aplikasi web sederhana untuk mencatat daftar kegiatan yang dibuat menggunakan Re
 - Simpan data kegiatan ke Local Storage
 
 ## Demo
+
+   [Lihat Demo](https://keen-boyd-c18a14.netlify.app/)
